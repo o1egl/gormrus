@@ -3,7 +3,7 @@ package gormrus
 import (
 	"database/sql/driver"
 	"fmt"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"reflect"
 	"regexp"
 	"time"
